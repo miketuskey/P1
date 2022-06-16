@@ -12,8 +12,6 @@
 - Attended Automation 
 - UiPath Studio 
 - UiPath Activities 
-- HTML 
-- Bootstrap
 - Sql Server
 ---
 
@@ -22,6 +20,7 @@
 - Automated email expense sheets 
 - Shops for multiple customers 
 - Both extract information from the SQL Database and insert data into the SQL Database 
+- Complete automation with no user input required
 ---
 
 # Getting Started 
@@ -29,7 +28,9 @@
 - Ensure that you have Mircosoft Edgen installed.
 - UiPath Studio needs to be installed.
 - Azure studio needs to be downloaded to access the customer datatables.
-- Ensure all excel files are downloaded with the program. 
+- Ensure all excel files are downloaded with the program.
+- Double click Rosa Shopper to enter starting workflows.
+- Hit the Debug File button to begin automation.
 ---
 
 # Usage 
@@ -37,4 +38,4 @@
 ---
 
 # License 
-This project uses the following license: MIT License.
+This project uses the following license: https://github.com/miketuskey/P1_Rosa/blob/main/LICENSE.
