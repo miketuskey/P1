@@ -33,7 +33,7 @@
 ---
 
 # Usage 
- - Once you have downloaded the project and loaded all the relevant files, simply running the program will enable ROSA to begin the shopping process for customers on the PEGA shopping platform. 
+ - Once you have downloaded the project and loaded all the relevant files, simply running the program will enable ROSA to begin the shopping process for customers on the PEGA shopping platform. The Workflow titled Rosa Shopper will be the main workflow for using the ROSA bot. 
 ---
 
 # License 
